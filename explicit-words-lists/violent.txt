@@ -1,9 +1,11 @@
+a gun will kill
 beat him
 beat up
 beat with
 carnage
 deathray
 deathrays
+die in a hole
 fuck the shit out of
 fuck up
 fuck with guns
@@ -16,6 +18,7 @@ get shot by a gun
 get shot by a phaser
 get shot by phasers
 go die
+go die in a hole
 gundown
 gunneddown
 gunshot
@@ -52,6 +55,7 @@ kms
 kyll
 kys
 murder
+phased out by phasers
 phaser
 phasers
 play with blood
