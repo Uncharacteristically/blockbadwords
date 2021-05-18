@@ -110,5 +110,9 @@ towelhead
 towel-head
 towelheads
 towel-heads
+wog
+wogged
+woggy
+wogs
 yed
 yid
