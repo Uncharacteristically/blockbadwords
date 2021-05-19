@@ -1,3 +1,4 @@
+docs.google.com
 drive.google.com
 emaii
 email
@@ -22,3 +23,5 @@ profile
 torent
 torrent
 URL
+word pass
+wordpass
