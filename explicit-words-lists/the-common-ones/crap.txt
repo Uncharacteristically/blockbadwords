@@ -23,6 +23,9 @@ jobby
 poo
 poop
 poopoo
+smeg
+smegging
+smeghead
 tird
 turd
 turds
