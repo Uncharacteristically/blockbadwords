@@ -1,4 +1,7 @@
+addict
+addicts
 cannabis
+cocain
 cocaine
 crystalmeth
 dope
@@ -10,7 +13,13 @@ drugs
 hemp
 hemped up
 heroin
+lello
+lelo
+llello
+llelo
+marijuana
 meth
+nose candy
 scag
 skag
 skunk
