@@ -9,6 +9,12 @@ bicth
 bih
 bitc
 bitch
+'bitch
+'bitch'
+"bitch
+"bitch"
+bitch'
+bitch"
 bitched
 bitcher
 bitchers
