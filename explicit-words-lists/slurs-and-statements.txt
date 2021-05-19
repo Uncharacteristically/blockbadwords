@@ -123,6 +123,10 @@ porchmonkey
 rag head
 raghead
 rag-head
+redneck
+rednecks
+redskin
+redskins
 reich
 ruski
 rusky
@@ -146,6 +150,7 @@ towelhead
 towel-head
 towelheads
 towel-heads
+white trash
 wog
 wogged
 woggy
