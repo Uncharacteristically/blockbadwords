@@ -17,6 +17,12 @@ fuccker
 fuccking
 fuck
 f-u-c-k
+'fuck
+'fuck'
+"fuck
+"fuck"
+fuck'
+fuck"
 Fuck off
 fuck you
 fuck yourself
