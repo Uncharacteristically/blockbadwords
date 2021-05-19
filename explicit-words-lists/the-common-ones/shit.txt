@@ -16,6 +16,8 @@ merde
 mierda
 s h1t
 s hit
+sack of shit
+sackashit
 sch1t
 schit
 sh|t
@@ -25,7 +27,12 @@ sh|tstain
 sh1t
 shat
 shit
+shit"
 shit$
+shit bag
+shit bags
+shitbag
+shitbags
 shite
 shites
 shitfull
