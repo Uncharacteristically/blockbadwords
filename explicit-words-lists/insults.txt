@@ -224,6 +224,7 @@ spastics
 spaz
 spide
 spides
+stupid
 suck up
 sucker
 suckers
