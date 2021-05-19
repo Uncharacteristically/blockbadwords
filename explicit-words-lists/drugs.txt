@@ -1,5 +1,6 @@
 cannabis
 cocaine
+crystalmeth
 dope
 dopes
 drug
@@ -9,6 +10,7 @@ drugs
 hemp
 hemped up
 heroin
+meth
 scag
 skag
 skunk
