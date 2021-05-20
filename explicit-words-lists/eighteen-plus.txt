@@ -42,6 +42,9 @@ carsex
 castrate
 castrates
 castration
+celibate
+celibates
+celibation
 circumcise
 circumcision
 cream pie
