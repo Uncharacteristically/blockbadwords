@@ -1,5 +1,7 @@
 addict
 addicts
+bong
+bongs
 cannabis
 cigarette
 cigarettes
@@ -12,6 +14,7 @@ drug
 druggie
 druggy
 drugs
+headrockers
 hemp
 hemped up
 heroin
@@ -21,6 +24,8 @@ llello
 llelo
 marijuana
 meth
+moke
+mokes
 nose candy
 scag
 skag
