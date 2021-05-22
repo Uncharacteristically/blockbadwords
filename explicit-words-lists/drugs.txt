@@ -2,6 +2,8 @@ addict
 addicts
 bong
 bongs
+brownie
+brownies
 cannabis
 cigarette
 cigarettes
@@ -14,15 +16,18 @@ drug
 druggie
 druggy
 drugs
+hash brownie
 headrockers
 hemp
 hemped up
 heroin
+high as a kite
 lello
 lelo
 llello
 llelo
 marijuana
+MDMA
 meth
 moke
 mokes
@@ -30,11 +35,17 @@ nose candy
 scag
 skag
 skunk
+spacecookies
 stoned
 stoner
 stoners
 stonin
 stoning
+taking speed
+thud
+thudding
+thuds
 weed
+weed brownie
 yayo
 yeyo
