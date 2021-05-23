@@ -44,6 +44,9 @@ cvn7
 cvnt
 cvnts
 flaps
+g spot
+gspot
+g-spot
 ham flap
 kun7
 kunt
