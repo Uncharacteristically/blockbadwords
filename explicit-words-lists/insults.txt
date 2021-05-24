@@ -40,6 +40,8 @@ bassterds
 bastard
 bastardo
 bastards
+basterd
+basterds
 bat shit
 batard
 batshit
@@ -256,6 +258,12 @@ pillock
 pillocks
 pooper scooper
 pooper scoopers
+prassterds
+prastard
+prastardo
+prastards
+prasterd
+prasterds
 prostitute
 prostitutes
 prostitution
