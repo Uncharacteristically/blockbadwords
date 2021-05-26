@@ -28,6 +28,7 @@ bludgeoned
 bludgeoning
 bludgeons
 carnage
+corda
 crazed gunman on a spree
 deathray
 deathrays
@@ -126,6 +127,7 @@ smed
 sphinct
 sphincter
 sphincters
+strappado
 suicdebmbr
 suicidal
 suicidal thoughts
