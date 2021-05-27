@@ -1,3 +1,4 @@
+bearded clam
 beaver
 beaver shot
 beaver shots
@@ -22,6 +23,7 @@ can't's
 chicken cut
 cip4
 cipa
+clam
 cnt
 cnut
 cnuts
