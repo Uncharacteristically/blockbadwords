@@ -25,6 +25,7 @@ cip4
 cipa
 clam
 cnt
+cntz
 cnut
 cnuts
 cooch
